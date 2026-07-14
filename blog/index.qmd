@@ -1,0 +1,8 @@
+---
+title: "Blog"
+listing:
+  contents: .          # lists every post folder inside blog/
+  sort: "date desc"
+  type: default
+  fields: [date, title, description, reading-time]
+---

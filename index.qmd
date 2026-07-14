@@ -1,0 +1,31 @@
+---
+title: "Daniel Pallies"
+subtitle: "Postdoctoral Researcher, Lingnan University"
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+<!-- Replace assets/profile.jpg with your photo, then delete this comment. -->
+![](assets/profile.jpg){.profile-photo fig-alt="Daniel Pallies"}
+
+*Photo taken by my partner, the inimitable [Jennifer Foster](http://fosterphilosophy.com).*
+:::
+
+::: {.g-col-12 .g-col-md-8}
+## About Me
+
+I'm a postdoctoral researcher at Lingnan University. My main interests are at the
+intersections of value, metaphysics, and consciousness. I'm interested in questions like:
+
+- What makes a feeling pleasant, or unpleasant?
+- How can our feelings towards things make a difference to what is good for us?
+- Can moral feelings make us act in certain ways?
+- What sorts of feelings can non-human creatures have?
+
+You can reach me at [danielpallies@ln.edu.hk](mailto:danielpallies@ln.edu.hk),
+or find me on [Academia.edu](https://usc.academia.edu/DanielPallies) and
+[PhilPeople](https://philpeople.org/profiles/daniel-pallies).
+:::
+
+:::

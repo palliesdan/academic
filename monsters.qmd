@@ -1,0 +1,12 @@
+---
+title: "Monsters"
+---
+
+
+Have you ever wanted to fight a Cartesian demon? **Probably not, but now you can!**
+
+Sometimes I make philosophy-themed game material for Dungeons & Dragons. A bunch of them are here:
+
+[Download the PDF](files/philosophy-monsters.pdf){.btn .btn-outline-secondary}
+
+<iframe class="pdf-frame" src="files/philosophy-monsters.pdf"></iframe>

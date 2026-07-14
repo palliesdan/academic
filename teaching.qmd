@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+---
+
+I've been the primary instructor for four different courses:
+
+- **Philosophy of Mind** — Theories of consciousness, intentionality, and perception
+- **Science Fiction in Literature and Film** — Philosophical topics explored through the lens of science fiction
+- **Critical Thinking** — Basics of logic and arguments, with a section on live ethical issues
+- **The Philosophy of Happiness** — Classical and contemporary views on pursuing happiness and the good life
+
+I have included some of my PowerPoint slides for these courses below. I try not to rely too heavily on slides. I want students to feel that we're doing something broadly collaborative, and I find it easier to generate that dynamic if I'm writing on the board, rather than presenting a PowerPoint I made in advance. But, at the same time, I know students also find the slides useful, particularly if English is not their first language.
+
+## Slides
+
+[Download the slides (PDF)](files/lotsa-slides.pdf){.btn .btn-outline-secondary}
+
+<iframe class="pdf-frame" src="files/lotsa-slides.pdf"></iframe>
